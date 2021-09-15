@@ -1,0 +1,36 @@
+
+*{
+    margin: auto;
+background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(https://i.ibb.co/vXqDmnh/background.jpg) no-repeat center center/cover
+      rgb(66, 63, 63);
+}
+
+
+h1 {
+    font-family: fantasy;
+    text-align: center;
+    color: lightcoral;
+}
+p {
+    text-align: center;
+    font-family: cursive;
+    font-size: 30;
+}
+
+img {
+    
+}
+
+.center {
+ 
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+    .headtop {
+        background-color: black;
+padding-top: 20px;
+        padding-bottom: 20px;
+       
+    }
